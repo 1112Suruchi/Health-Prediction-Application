@@ -1,4 +1,4 @@
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/6b440969-5c10-43c8-af5b-20dd20d729f8" />**🏥 Health Prediction Application
+**🏥 Health Prediction Application
 **
 A simple AI/ML-based Health Prediction Application built using Python, Streamlit, and SQLite.
 The application allows users to manage patient records and predict possible health risks based on blood test values.
@@ -112,7 +112,7 @@ The project demonstrates CRUD operations and AI workflow effectively.
 
 Add application screenshots here.
 
-Example:
+Example: <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/79c3e310-6e9d-4620-a5e5-0056a4e0d965" />
 
 screenshots/homepage.png
 
