@@ -114,15 +114,10 @@ Add application screenshots here.
 
 Example: <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/79c3e310-6e9d-4620-a5e5-0056a4e0d965" />
 
-screenshots/homepage.png
 
 **🎥 Demo Video**
 
-Add your demo video link here.
-
-Example:
-
-https://drive.google.com/your-demo-video-link
+Example: https://drive.google.com/file/d/1EkDlFfJQCoQjap-RV1qeGcVV5538QzWM/view?usp=sharing
 
 **🔮 Future Improvements**
 
